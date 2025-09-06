@@ -1,5 +1,6 @@
 # Pipeline de Dados com Apache Airflow
 Este projeto é um pipeline de dados automatizado construído com Apache Airflow que extrai dados climáticos da API da Visual Crossing, processa-os e os salva em arquivos CSV. O pipeline é agendado para rodar semanalmente.
+O projeto conta com dados a partir do dia 11/08/2025 sendo atualizado uma vez por semana, todas as segundas-feiras
 
 ## Tecnologias Utilizadas
 - Python: Linguagem de programação principal.
